@@ -10,4 +10,6 @@
   <div>
     ✉ <a href="mailto:mail@ryancranie.com" style="text-decoration: none; font-family: monospace;">mail@ryancranie.com</a>
   </div>
+  <br>
+    📄 Here is my <a href="https://cv.ryancranie.com" style="text-decoration: none; font-family: monospace;">CV</a>!
 </div>
